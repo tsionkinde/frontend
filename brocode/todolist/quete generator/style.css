@@ -1,0 +1,28 @@
+button{
+    display: block;
+    margin: 0 auto;
+    padding: 5px 20px;
+
+}
+#author{
+    font-size: 18px;
+    align-self: flex-end;
+
+}
+#quote{
+    font-size: 20px;
+
+}
+.container{
+    width: 500px;
+    min-height: 160px;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #0a3d62;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
